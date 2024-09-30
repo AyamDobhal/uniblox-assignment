@@ -142,4 +142,4 @@ yarn start
 
 The frontend server will be available at http://localhost:3000.
 
-![Frontend](https://cdn.discordapp.com/attachments/799886758837092352/1290281497109987448/image.png?ex=66fbe3c9&is=66fa9249&hm=c5bd998791394519252c472a430a42f461718c35b847bc6d6a3efe0cf4c192d5&)
+![Frontend](image.png)
